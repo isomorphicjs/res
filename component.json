@@ -1,0 +1,15 @@
+{
+  "name": "res",
+  "repo": "isomorphicjs/res",
+  "description": "In-browser response for Isomorphic",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
